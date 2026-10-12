@@ -4,7 +4,7 @@
 
 The goal isn't just to become the developer who writes the most code, knows the most frameworks, or collects the most certifications. It's to become the developer people trust with their most important problems because you deliver quality work, think ahead, communicate clearly, and take ownership when things go wrong.
 
-Given your full-stack background, .NET and Azure experience, AI certifications, and your move into consulting at Dariel, I'd focus on becoming a high-performing engineer who can grow into a software architect and technical leader.
+Given a full-stack background, .NET and Azure experience, AI certifications, I'd focus on becoming a high-performing engineer who can grow into a software architect and technical leader.
 
 Here's the roadmap I'd follow.
 
